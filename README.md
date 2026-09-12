@@ -9,7 +9,7 @@ python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-githu
   --repo liyue-aigc/child-outfit-director --path skill --name child-outfit-director
 ```
 
-或将本仓库内容复制到 `~/.codex/skills/child-outfit-director`。
+或将 `skill/` 目录复制到 `~/.codex/skills/child-outfit-director`。
 
 ## 范围
 
