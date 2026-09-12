@@ -1,0 +1,4 @@
+interface:
+  display_name: "儿童时装导演"
+  short_description: "为婴儿与儿童生成安全、非性感化的多套穿搭拼贴与换装视频提示词"
+  default_prompt: "使用 $child-outfit-director 为同一名儿童设计安全的多套穿搭拼贴和卡点换装脚本。"
